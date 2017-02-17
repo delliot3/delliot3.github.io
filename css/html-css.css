@@ -24,6 +24,8 @@ body {
 #hi-lo {
     display: flex;
     align-content: space-between;
+    font-size: 2em;
+    color: deeppink;
 }
 
 #hi-lo>li {
@@ -86,4 +88,12 @@ h2 {
     justify-content: center;
     height: 20;
     width: 25%;
+}
+
+#bum {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    color: darkgoldenrod;
+    margin-right: 2em;
 }
