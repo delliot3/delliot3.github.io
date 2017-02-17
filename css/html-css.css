@@ -39,13 +39,13 @@ body {
 
 h1 {
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     color: crimson;
 }
 
 h2 {
    display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     color: darkkhaki;
 }
 
