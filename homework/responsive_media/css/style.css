@@ -226,7 +226,7 @@ h1 {
     }
     /*	Background Images - Use with large screens */
     .page-header {
-        width: 10%;
+        width: 100%;
         background-image: url(../images/logo_150.png), url(../images/banner_1200.jpeg);
         background-repeat: no-repeat;
         background-position: right, left;
